@@ -4,7 +4,7 @@
 <img src='https://i.gifer.com/JXA0.gif' align='right' alt='coding' width='400'  />
 
 
-- 🔭 I’m currently working on [Eidcarosse Ch](https://eidcarosse.ch/)
+- 🔭 I’m currently working on [Vizteck Solutions](https://vizteck.com/)
 
 - 🌱 I’m currently learning **React native**
 
