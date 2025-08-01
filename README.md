@@ -4,9 +4,9 @@
 <img src='https://i.gifer.com/JXA0.gif' align='right' alt='coding' width='400'  />
 
 
-- 🔭 I’m currently working on [Vizteck Solutions](https://vizteck.com/)
+- 🔭 I’m currently working on [Octaloop technologies](https://www.octaloop.io)
 
-- 🌱 I’m currently learning **React native**
+- 🌱 I’m currently learning **Python django**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mudasir649](https://github.com/mudasir649)
 
